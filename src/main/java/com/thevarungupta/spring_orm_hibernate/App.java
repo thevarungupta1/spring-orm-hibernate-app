@@ -8,10 +8,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 import com.thevarungupta.spring_orm_hibernate.dao.EmployeeDao;
 import com.thevarungupta.spring_orm_hibernate.entities.Employee;
 
-/**
- * Hello world!
- *
- */
+
 public class App 
 {
     public static void main( String[] args )

@@ -1,7 +1,6 @@
 package com.thevarungupta.spring_orm_hibernate.dao;
 
 import java.util.List;
-
 import javax.transaction.Transactional;
 import org.springframework.orm.hibernate5.HibernateTemplate;
 import com.thevarungupta.spring_orm_hibernate.entities.Employee;
